@@ -1,0 +1,147 @@
+h1, h2, h3 {
+	color: #0F1A20;
+	text-shadow: 0px 0px 8px #669BB7;
+}
+
+ul#menu li {
+				display:inline;
+			}
+
+ul#menu a, ul#menu a:visited {
+
+	font-size:20;
+	text-align: middle;
+	
+	color: black;
+
+}
+
+ul#menu a:hover, ul#menu a:active {
+	color: #254bbb;
+	border-color: #254bbb;
+}
+
+
+.jumbotron {
+	background-color: #496ddb;
+	width: 100%;
+	border-width: 2px;
+	background-size: cover; 
+
+
+}
+
+button {
+	background-color: #496ddb;
+	border-color: #496ddb;
+	color: #e2eb98;
+	margin: 0;
+	border: 1px solid #496ddb;
+	position: relative;
+}
+
+.menubarbox {
+	float: left;
+	display:inline;	
+	height: 30px;
+
+}
+
+button:hover {
+	background-color: #254bbb;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+	text-align: center;
+	border: 1px solid #254bbb;
+
+}
+
+img {
+	float: left;
+}
+.menu, .container {
+	
+	
+}
+
+
+hr {
+	margin: 10px;
+}
+
+.menubar {
+	height: 30px;
+}
+
+.footer {
+}
+
+body {background-color: #944654;}
+
+div.footer {
+	/*display: grid;*/
+	width: 60%;
+}
+
+textarea.footer {
+	grid-column: 1;
+	grid-row: 1;
+	width: 98%;
+	margin: 1%;
+	margin-bottom: 0px;
+}
+
+button.footer {
+	grid-column: 1;
+	grid-row: 2;
+	width: 20%;
+	background-color: #549F93;
+	margin:1%;
+	margin-top:0px;
+	height: 3%;
+	color: #944654;
+}
+
+button.footer:hover {
+	background-color: #386B62;
+	border-color: #386B62;
+	color: #E2EB98;
+}
+
+
+.references, a.references:visited  {
+	color: #E2EB98;
+	margin:1%;
+}
+
+a.references:hover {
+	color: #0F1A20;
+	border-color: #0F1A20;
+}
+
+.informationDiv {
+	background-color: beige;
+	display: grid;
+}
+
+.informationP {
+	margin: 1%;
+	color: dimgray;
+}
+
+.informationImage {
+	width:800;
+	margin:1%;
+	margin-top:0
+}
+
+.informationUL {
+	list-style-type: square;
+}
+
+p, ul, li, div, a, button {
+	font-family: Verdana, Helvetica, Open Sans, Comic Sans;
+	color: #0F1A20;
+}
+b{
+	color: #0D171C;
+}

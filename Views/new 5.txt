@@ -1,0 +1,10 @@
+<div class="jumbotron jumbotron-fluid">
+	<div class="container">     
+		<ul id="menu">
+			<li><a href="Home.html">Home</a></li>
+			<li><a href="GreatPyramidofGiza.html">About</a></li>
+			<li><button onclick="location.href='../Views/home.html'" type="button">Home</button></li>
+			<li><button onclick="location.href='../Views/about.html'" type="button">About</button></li> 
+		</ul>
+	</div>
+</div> 
